@@ -7,9 +7,10 @@
         This tool is Help to easly combile username in wordlist [Password list], in openbullet,storm etc.
         Useful for build Passwoard list[singleusername:pass],(this tool is only useful if u Dont have single target config)
         <br>
-        eg:- 
-             user:pass1
-             user:pass2 
+        eg:-<b>
+        
+             user:pass1</b>
+             user:pass2</b> 
              ..........***
              
 ### [+] Installation For Kali Linux [Currently Only Tested In Linux]
