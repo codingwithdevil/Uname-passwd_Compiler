@@ -5,13 +5,13 @@
 ### Notes:- 
 ***Usage :- <br>
         This tool is Help to easly combile username in wordlist [Password list], in openbullet,storm etc.
-        Useful for build Passwoard list[singleusername:pass],(this tool is only useful if u Dont have single target config)
+        Useful for build Passwoard list[singleusername:pass],(this tool is only useful if u Dont have single target config)***
         <br>
         eg:-<b>
         
              user:pass1
              user:pass2
-             ..........***
+             ..........
              
 ### [+] Installation For Kali Linux [Currently Only Tested In Linux]
 
