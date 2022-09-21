@@ -1,3 +1,10 @@
+#!/bin/python
+#
+#    Compiler by Coding With Devil  https://www.youtube.com/c/CodingWithDevil/
+#    This program comes with ABSOLUTELY NO WARRANTY
+#    The use of the Compiler & its resources is COMPLETE RESPONSIBILITY of the END-USER.
+#    Developers assume NO liability and are NOT responsible for any damage caused by this program.
+
 import os
 from time import sleep as wait
 from subprocess import call
