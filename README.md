@@ -9,8 +9,8 @@
         <br>
         eg:-<b>
         
-             user:pass1</b>
-             user:pass2</b> 
+             user:pass1
+             user:pass2
              ..........***
              
 ### [+] Installation For Kali Linux [Currently Only Tested In Linux]
